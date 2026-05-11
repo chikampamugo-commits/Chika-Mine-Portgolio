@@ -1,2 +1,2 @@
-# Chika-Mine-Portgolio
+# Chika-Mine-Porfolio
 Personal portfolio website
